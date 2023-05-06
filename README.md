@@ -18,4 +18,4 @@ cd Age_check.py
 
 chmod +x *
 
-python3 Age_check.py
+python3 newfile.py
